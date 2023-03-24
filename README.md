@@ -22,7 +22,7 @@
 + 📧 How to reach me: Josehenriquez.02.26@gmail.com
 
 + ⬇️ I regularly upload technology and programming videos to my YouTube channel, I am a freelance programmer at the moment.
-  + ![Youtube channel](https://www.youtube.com/channel/UCIK-txT4Zggh55NVEHgzaKQ)
+  + Website: <ul><li><a href="https://www.youtube.com/channel/UCIK-txT4Zggh55NVEHgzaKQ">Canal de YouTube</li></ul>
 
 ### ⚒️ Languages an tools:
 
