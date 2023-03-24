@@ -17,6 +17,7 @@
 
 + I regularly upload technology and programming videos to my YouTube channel, I am a freelance programmer at the moment.
   + website: ![Canal de youtube](https://www.youtube.com/channel/UCIK-txT4Zggh55NVEHgzaKQ)
+  + ![Canal de youtube](https://www.youtube.com/channel/UCIK-txT4Zggh55NVEHgzaKQ)
 
 + Languages an tools:
 
