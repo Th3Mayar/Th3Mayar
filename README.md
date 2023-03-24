@@ -6,8 +6,10 @@
   <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" alt="50" witdh="80px" height="50px">
  </div>
  
- <div id="badges" align="center">
-  <a href="https://img.shields.io/twitter/follow/G4Henriquez?color=%23298AC1&style=for-the-badge" target"_blank" alt="twitter badge"/>
+ <div id="badges" align="right">
+    <img src="https://img.shields.io/twitter/follow/G4Henriquez?color=%23298AC1&style=for-the-badge" alt="twitter badge" />
+    <img src="https://img.shields.io/youtube/channel/views/UCIK-txT4Zggh55NVEHgzaKQ?color=%232A8DC6&style=for-the-badge" alt="yt badge" />
+    <img src="https://img.shields.io/twitch/status/th3mayar?color=%232A8DC6&style=for-the-badge" alt="twitch badge" />
 </div>
 
 ***
