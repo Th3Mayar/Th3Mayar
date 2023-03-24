@@ -8,7 +8,7 @@
  
  <div id="badges" align="right">
     <img src="https://img.shields.io/twitter/follow/G4Henriquez?color=%23298AC1&style=for-the-badge" alt="twitter badge" />
-    <img src="https://img.shields.io/youtube/channel/views/UCIK-txT4Zggh55NVEHgzaKQ?color=%232A8DC6&style=for-the-badge" alt="yt badge" />
+    <img src="https://img.shields.io/github/followers/Th3Mayar?style=for-the-badge" alt="github badge" />
     <img src="https://img.shields.io/twitch/status/th3mayar?color=%232A8DC6&style=for-the-badge" alt="twitch badge" />
 </div>
 
