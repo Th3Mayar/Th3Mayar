@@ -5,6 +5,10 @@
 <div style="width:50%;height:0;padding-bottom:56%;position:relative;">
   <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" alt="50" witdh="80px" height="50px">
  </div>
+ 
+ <div id="badges" align="center">
+  <a href="https://img.shields.io/twitter/follow/G4Henriquez?color=%23298AC1&style=for-the-badge" target"_blank" alt="twitter badge"/>
+</div>
 
 ***
 
