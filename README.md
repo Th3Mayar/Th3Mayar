@@ -16,7 +16,7 @@
 + How to reach me: Josehenriquez.02.26@gmail.com
 
 + I regularly upload technology and programming videos to my YouTube channel, I am a freelance programmer at the moment.
-  + website: youtube.com/th3mayar 
+  + website: ![Canal de youtube](youtube.com/th3mayar) 
 
 + Languages an tools:
 
