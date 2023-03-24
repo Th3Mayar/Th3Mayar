@@ -9,14 +9,14 @@
 ***
 
 ### 👨‍💻ABOUT ME:
-+ I regularly upload technology and programming videos to my YouTube channel, I am a freelance programmer at the moment.
++ ✍️ I regularly upload technology and programming videos to my YouTube channel, I am a freelance programmer at the moment.
 
-+ Ask me about: python, js, php, c, c++.
++ ❔ Ask me about: python, js, php, c, c++.
 
-+ How to reach me: Josehenriquez.02.26@gmail.com
++ 📧 How to reach me: Josehenriquez.02.26@gmail.com
 
-+ I regularly upload technology and programming videos to my YouTube channel, I am a freelance programmer at the moment.
++ ⬇️ I regularly upload technology and programming videos to my YouTube channel, I am a freelance programmer at the moment.
   + ![Youtube channel](https://www.youtube.com/channel/UCIK-txT4Zggh55NVEHgzaKQ)
 
-+ Languages an tools:
++ ⚒️ Languages an tools:
 
