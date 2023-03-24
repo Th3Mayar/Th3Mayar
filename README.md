@@ -16,7 +16,7 @@
 + How to reach me: Josehenriquez.02.26@gmail.com
 
 + I regularly upload technology and programming videos to my YouTube channel, I am a freelance programmer at the moment.
-  + website: ![youtube](https://www.youtube.com/channel/UCIK-txT4Zggh55NVEHgzaKQ)
+  + ![Youtube channel](https://www.youtube.com/channel/UCIK-txT4Zggh55NVEHgzaKQ)
 
 + Languages an tools:
 
