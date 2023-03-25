@@ -16,7 +16,7 @@
 ***
 
 ### 👨‍💻ABOUT ME:
-+ ✍️ I regularly upload technology and programming videos to my YouTube channel, I am a freelance programmer at the moment.
++ ✍️ I regularly upload technology and programming videos to my YouTube channel, I am a freelancer programmer at the moment.
 
 + ❔ Ask me about: python, javaScript, c, c++.
 
