@@ -51,3 +51,4 @@
 ### 📊 My stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Th3Mayar&theme=dark)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Th3Mayar&show_icons=true&theme=radical)
