@@ -17,13 +17,25 @@
 ### 👨‍💻ABOUT ME:
 + ✍️ I regularly upload technology and programming videos to my YouTube channel, I am a freelance programmer at the moment.
 
-+ ❔ Ask me about: python, js, php, c, c++.
++ ❔ Ask me about: python, javaScript, c, c++.
 
 + 📧 How to reach me: Josehenriquez.02.26@gmail.com
 
++ 👨‍🎓 I am currently learning: React.js, node.js, php and markdown.
+
 + ⬇️ I regularly upload technology and programming videos to my YouTube channel, I am a freelance programmer at the moment.
-  + Website: <ul><li><a href="https://www.youtube.com/channel/UCIK-txT4Zggh55NVEHgzaKQ">Canal de YouTube</li></ul>
+  + Website: <ul><li><a href="https://www.youtube.com/channel/UCIK-txT4Zggh55NVEHgzaKQ">Canal de YouTube.</li></ul>
 
 ### ⚒️ Languages an tools:
-
+<div align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" width="40px" heigh="40px" alt="atom">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="40px" heigh="40px" alt="docker">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40px" heigh="40px" alt="html">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="40px" heigh="40px" alt="css">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="40px" heigh="40px" alt="visual studio">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40px" heigh="40px" alt="mysql">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40px" heigh="40px" alt="php">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" width="40px" heigh="40px" alt="photoshop">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40px" heigh="40px" alt="react">
+</div>
 ***
