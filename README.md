@@ -3,7 +3,7 @@
 #### Passionate programmer; mostly frontend, but from time to time back-end 😁 to complement, I make content for youtube about varied content, especially programming, but I also do my own projects from time to time so as not to lose the thread.
 
 <div style="width:50%;height:0;padding-bottom:56%;position:relative;">
-  <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" alt="60px" witdh="80px" height="60px">
+  <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" alt="60px" witdh="100px" height="80px">
  </div>
  <br>
  <div id="badges" align="left">
@@ -40,6 +40,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" width="40px" heigh="40px" alt="photoshop">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40px" heigh="40px" alt="react">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="40px" heigh="40px" alt="vscode">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" width="40px" heigh="40px" alt="jira">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40px" heigh="40px" alt="jira">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="40px" heigh="40px" alt="github">
+  <img src="https://github.com/devicons/devicon/tree/master/icons/git" width="40px" heigh="40px" alt="git">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" width="40px" heigh="40px" alt="canva">
 </div>
 
 ***
