@@ -42,7 +42,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="40px" heigh="40px" alt="vscode">
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" width="40px" heigh="40px" alt="jira">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40px" heigh="40px" alt="jira">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40px" heigh="40px" alt="github">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40px" heigh="40px" alt="git">
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" width="40px" heigh="40px" alt="canva">
 </div>
