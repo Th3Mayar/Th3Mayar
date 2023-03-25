@@ -45,3 +45,5 @@
 ### 📊 My stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Th3Mayar)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Th3Mayar&theme=dark)](https://git.io/streak-stats)
