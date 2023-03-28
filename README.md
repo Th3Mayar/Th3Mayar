@@ -27,7 +27,7 @@
 + ⬇️ I regularly upload technology and programming videos to my YouTube channel, I am a freelance programmer at the moment.
   + Website: <ul><li><a href="https://www.youtube.com/channel/UCIK-txT4Zggh55NVEHgzaKQ">Canal de YouTube.</li></ul>
 
-### ⚒️ Languages an tools:
+### ⚒️ Languages and tools:
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" width="40px" heigh="40px" alt="atom">
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="40px" heigh="40px" alt="docker">
