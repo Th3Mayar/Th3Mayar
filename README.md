@@ -29,7 +29,6 @@
 
 ### ⚒️ Languages and tools:
 <div align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" width="40px" heigh="40px" alt="atom">
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="40px" heigh="40px" alt="docker">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40px" heigh="40px" alt="html">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="40px" heigh="40px" alt="css">
@@ -40,7 +39,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" width="40px" heigh="40px" alt="photoshop">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40px" heigh="40px" alt="react">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="40px" heigh="40px" alt="vscode">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" width="40px" heigh="40px" alt="jira">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40px" heigh="40px" alt="jira">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40px" heigh="40px" alt="git">
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" width="40px" heigh="40px" alt="canva">
