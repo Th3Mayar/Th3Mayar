@@ -29,14 +29,11 @@
 
 ### ⚒️ Languages and tools:
 <div align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="40px" heigh="40px" alt="docker">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40px" heigh="40px" alt="html">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="40px" heigh="40px" alt="css">
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="40px" heigh="40px" alt="visual studio">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40px" heigh="40px" alt="python">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40px" heigh="40px" alt="mysql">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40px" heigh="40px" alt="php">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" width="40px" heigh="40px" alt="photoshop">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40px" heigh="40px" alt="react">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="40px" heigh="40px" alt="vscode">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40px" heigh="40px" alt="jira">
