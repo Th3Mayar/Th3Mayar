@@ -22,7 +22,7 @@
 
 + 📧 How to reach me: Josehenriquez.02.26@gmail.com
 
-+ 👨‍🎓 I am currently learning: Astro, express.
++ 👨‍🎓 I am currently learning: Astro, express + node JS.
 
 + ⬇️ I regularly upload technology and programming videos to my YouTube channel, I am a freelance programmer at the moment.
   + Website: <ul><li><a href="https://www.youtube.com/channel/UCIK-txT4Zggh55NVEHgzaKQ">Canal de YouTube.</li></ul>
