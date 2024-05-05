@@ -15,14 +15,16 @@
 
 ***
 
+[![wakatime](https://wakatime.com/badge/user/f70bd18a-a4b7-49ad-a6ed-3b37cef564d8/project/aeaf42b4-1035-4d52-b809-02f92c63d616.svg)](https://wakatime.com/badge/user/f70bd18a-a4b7-49ad-a6ed-3b37cef564d8/project/aeaf42b4-1035-4d52-b809-02f92c63d616)
+
 ### 👨‍💻ABOUT ME:
 + ✍️ I regularly upload technology and programming videos to my YouTube channel, I am a freelancer programmer at the moment.
 
-+ ❔ Ask me about: python, javaScript, c, c++.
++ ❔ Ask me about: typescript, javaScript, astro and react.
 
 + 📧 How to reach me: Josehenriquez.02.26@gmail.com
 
-+ 👨‍🎓 I am currently learning: Astro, express + node JS.
++ 👨‍🎓 I am currently learning: Astro, express + node JS and typescript full
 
 + ⬇️ I regularly upload technology and programming videos to my YouTube channel, I am a freelance programmer at the moment.
   + Website: <ul><li><a href="https://www.youtube.com/channel/UCIK-txT4Zggh55NVEHgzaKQ">Canal de YouTube.</li></ul>
@@ -49,8 +51,8 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Th3Mayar&show_icons=true&theme=gruvbox)
+![Th3Mayar](https://github-readme-stats.vercel.app/api?username=th3mayar&show_icons=true&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Th3Mayar&hide_progress=true)](https://github.com/Th3Mayar/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Th3Mayar&layout=compact&theme=dark)
