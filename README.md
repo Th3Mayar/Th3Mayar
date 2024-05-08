@@ -15,7 +15,21 @@
 
 ***
 
-[![wakatime](https://wakatime.com/badge/user/f70bd18a-a4b7-49ad-a6ed-3b37cef564d8/project/aeaf42b4-1035-4d52-b809-02f92c63d616.svg)](https://wakatime.com/badge/user/f70bd18a-a4b7-49ad-a6ed-3b37cef564d8/project/aeaf42b4-1035-4d52-b809-02f92c63d616)
+<section>
+    <div>
+        <p>Emedia Store</p>
+        <a href="https://wakatime.com/badge/user/f70bd18a-a4b7-49ad-a6ed-3b37cef564d8/project/fa8098bb-d7b8-4df4-bead-f80889c8bc08">
+            <img src="https://wakatime.com/badge/user/f70bd18a-a4b7-49ad-a6ed-3b37cef564d8/project/fa8098bb-d7b8-4df4-bead-f80889c8bc08.svg" alt="wakatime">
+        </a>
+    </div>
+  <br>
+    <div>
+        <p>Blog CISC</p>
+        <a href="https://wakatime.com/badge/user/f70bd18a-a4b7-49ad-a6ed-3b37cef564d8/project/54d4eb03-8aa7-4e4f-955c-78a362aae98e">
+            <img src="https://wakatime.com/badge/user/f70bd18a-a4b7-49ad-a6ed-3b37cef564d8/project/54d4eb03-8aa7-4e4f-955c-78a362aae98e.svg" alt="Emedia Store">
+        </a>
+    </div>
+</section>
 
 ### 👨‍💻ABOUT ME:
 + ✍️ I regularly upload technology and programming videos to my YouTube channel, I am a freelancer programmer at the moment.
