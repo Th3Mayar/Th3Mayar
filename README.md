@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Jose Francisco.
 
-#### I am a Full Systems Engineering student, passionate programmer; mostly front-end, but occasionally back-end 😁 to complement it, I make content for YouTube on various content, especially programming, but I also make my own projects.
+#### I am a Full Systems Engineering student, passionate programmer; mostly front-end, but occasionally back-end 😁 to complement it, I make content for YouTube on various content, especially programming, but I also make my own projects. 
 
 <div style="width:50%;height:0;padding-bottom:56%;position:relative;">
   <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" alt="60px" witdh="100px" height="80px">
@@ -14,7 +14,7 @@
 </div>
 
 ***
-
+![](https://komarev.com/ghpvc/?username=th3mayar)
 <section>
     <div>
         <p>Emedia Store</p>
