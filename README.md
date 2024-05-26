@@ -17,8 +17,8 @@
 ![](https://komarev.com/ghpvc/?username=th3mayar)
 <section>
     <div>
-        <p>Emedia Store</p>
-        <a href="https://wakatime.com/badge/user/f70bd18a-a4b7-49ad-a6ed-3b37cef564d8/project/fa8098bb-d7b8-4df4-bead-f80889c8bc08">
+        <p>My Portfolio</p>
+        <a href="https://wakatime.com/@Th3Mayar/projects/uhnagxnohu?start=2024-05-20&end=2024-05-26">
             <img src="https://wakatime.com/badge/user/f70bd18a-a4b7-49ad-a6ed-3b37cef564d8/project/fa8098bb-d7b8-4df4-bead-f80889c8bc08.svg" alt="wakatime">
         </a>
     </div>
