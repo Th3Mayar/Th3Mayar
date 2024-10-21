@@ -14,22 +14,6 @@
 </div>
 
 ***
-![](https://komarev.com/ghpvc/?username=th3mayar)
-<section>
-    <div>
-        <p>My Portfolio</p>
-        <a href="https://wakatime.com/@Th3Mayar/projects/uhnagxnohu?start=2024-05-20&end=2024-05-26">
-            <img src="https://wakatime.com/badge/user/f70bd18a-a4b7-49ad-a6ed-3b37cef564d8/project/fa8098bb-d7b8-4df4-bead-f80889c8bc08.svg" alt="wakatime">
-        </a>
-    </div>
-  <br>
-    <div>
-        <p>Blog CISC</p>
-        <a href="https://wakatime.com/badge/user/f70bd18a-a4b7-49ad-a6ed-3b37cef564d8/project/54d4eb03-8aa7-4e4f-955c-78a362aae98e">
-            <img src="https://wakatime.com/badge/user/f70bd18a-a4b7-49ad-a6ed-3b37cef564d8/project/54d4eb03-8aa7-4e4f-955c-78a362aae98e.svg" alt="Emedia Store">
-        </a>
-    </div>
-</section>
 
 ### 👨‍💻ABOUT ME:
 + ✍️ I regularly upload technology and programming videos to my YouTube channel, I am a freelancer programmer at the moment.
@@ -63,8 +47,6 @@
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-993%20hrs%2039%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
