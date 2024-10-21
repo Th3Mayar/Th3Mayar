@@ -59,6 +59,11 @@
 
 ***
 
+### 📊 Wakatime stats:
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### 📊 My stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Th3Mayar&theme=dark)](https://git.io/streak-stats)
