@@ -44,7 +44,7 @@
 ***
 
 ### 📊 Wakatime stats:
-
+[![committers.top badge](https://user-badge.committers.top/dominican_republic/Th3Mayar.svg)](https://user-badge.committers.top/dominican_republic/Th3Mayar)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C050%20hrs%2049%20mins-blue)
 
