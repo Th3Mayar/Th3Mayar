@@ -55,15 +55,13 @@
 ### 📊 Wakatime stats:
 [![committers.top badge](https://user-badge.committers.top/dominican_republic/Th3Mayar.svg)](https://user-badge.committers.top/dominican_republic/Th3Mayar)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C628%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C634%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 46 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -98,21 +96,21 @@ Sunday                   751 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Santo_Domingo
 
 💬 Programming Languages: 
-Vue.js                   14 hrs 6 mins       ███████████████████░░░░░░   77.18 % 
-TypeScript               2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-JavaScript               1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-Blade Template           12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Vue.js                   10 hrs 50 mins      ███████████████░░░░░░░░░░   58.25 % 
+TypeScript               4 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
+JavaScript               2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Blade Template           36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+TSConfig                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 17 mins      █████████████████████████   100.00 % 
+VS Code                  18 hrs 37 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-gizmo                    18 hrs 14 mins      █████████████████████████   99.72 % 
+gizmo                    18 hrs 34 mins      █████████████████████████   99.72 % 
 landing-page             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 💻 Operating System: 
-Windows                  18 hrs 14 mins      █████████████████████████   99.72 % 
+Windows                  18 hrs 34 mins      █████████████████████████   99.72 % 
 WSL                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 ```
 
@@ -133,7 +131,7 @@ HTML                     4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Th3Mayar/Th3Mayar/main/assets/bar_graph.png)
 
 
- Last Updated on 21/02/2025 18:43:55 UTC
+ Last Updated on 22/02/2025 18:41:54 UTC
 <!--END_SECTION:waka-->
 
 ### 📊 My stats:
