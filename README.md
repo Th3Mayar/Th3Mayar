@@ -55,7 +55,7 @@
 ### 📊 Wakatime stats:
 [![committers.top badge](https://user-badge.committers.top/dominican_republic/Th3Mayar.svg)](https://user-badge.committers.top/dominican_republic/Th3Mayar)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C977%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C983%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -98,20 +98,20 @@ Sunday                   808 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Santo_Domingo
 
 💬 Programming Languages: 
-Vue.js                   9 hrs 46 mins       █████████████░░░░░░░░░░░░   53.47 % 
-JavaScript               3 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
-TypeScript               3 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
-PHP                      56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+Vue.js                   8 hrs 40 mins       ███████████░░░░░░░░░░░░░░   43.26 % 
+TypeScript               5 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   26.59 % 
+JavaScript               2 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+PHP                      2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+Bash                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 17 mins      █████████████████████████   100.00 % 
+VS Code                  20 hrs 2 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-gizmo                    18 hrs 17 mins      █████████████████████████   100.00 % 
+gizmo                    20 hrs 2 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      18 hrs 17 mins      █████████████████████████   100.00 % 
+WSL                      20 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -131,7 +131,7 @@ Astro                    4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Th3Mayar/Th3Mayar/main/assets/bar_graph.png)
 
 
- Last Updated on 06/05/2025 18:47:38 UTC
+ Last Updated on 07/05/2025 18:48:54 UTC
 <!--END_SECTION:waka-->
 
 ### 📊 My stats:
