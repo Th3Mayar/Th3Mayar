@@ -55,15 +55,13 @@
 ### 📊 Wakatime stats:
 [![committers.top badge](https://user-badge.committers.top/dominican_republic/Th3Mayar.svg)](https://user-badge.committers.top/dominican_republic/Th3Mayar)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C025%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C031%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 73 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -98,23 +96,22 @@ Sunday                   808 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Santo_Domingo
 
 💬 Programming Languages: 
-Vue.js                   13 hrs 2 mins       ██████████░░░░░░░░░░░░░░░   41.54 % 
-TypeScript               8 hrs               ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
-Blade Template           6 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
-JavaScript               2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-PHP                      1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Blade Template           10 hrs 55 mins      █████████░░░░░░░░░░░░░░░░   34.87 % 
+Vue.js                   10 hrs 48 mins      █████████░░░░░░░░░░░░░░░░   34.53 % 
+TypeScript               5 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+JavaScript               2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+PHP                      1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
 
 🔥 Editors: 
-VS Code                  31 hrs 24 mins      █████████████████████████   100.00 % 
+VS Code                  31 hrs 19 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-gizmo                    31 hrs 14 mins      █████████████████████████   99.46 % 
+gizmo                    31 hrs 9 mins       █████████████████████████   99.46 % 
 sabor_app                8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 task-management-main     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-gizmo_directories        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-WSL                      31 hrs 24 mins      █████████████████████████   100.00 % 
+WSL                      31 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -134,7 +131,7 @@ Astro                    4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Th3Mayar/Th3Mayar/main/assets/bar_graph.png)
 
 
- Last Updated on 16/05/2025 18:48:32 UTC
+ Last Updated on 17/05/2025 18:45:29 UTC
 <!--END_SECTION:waka-->
 
 ### 📊 My stats:
