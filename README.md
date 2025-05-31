@@ -57,7 +57,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C068%20hrs%2013%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -96,23 +96,16 @@ Sunday                   808 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Santo_Domingo
 
 💬 Programming Languages: 
-Blade Template           6 hrs 10 mins       ███████████████████████░░   92.12 % 
-JavaScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-PHP                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 hrs 42 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-gizmo                    6 hrs 27 mins       ████████████████████████░   96.36 % 
-gizmo_directories        10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-exmaple                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      6 hrs 38 mins       █████████████████████████   99.03 % 
-Windows                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -132,7 +125,7 @@ Astro                    4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Th3Mayar/Th3Mayar/main/assets/bar_graph.png)
 
 
- Last Updated on 30/05/2025 18:48:54 UTC
+ Last Updated on 31/05/2025 18:46:06 UTC
 <!--END_SECTION:waka-->
 
 ### 📊 My stats:
