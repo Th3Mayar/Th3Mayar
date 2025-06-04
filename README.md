@@ -55,13 +55,13 @@
 ### 📊 Wakatime stats:
 [![committers.top badge](https://user-badge.committers.top/dominican_republic/Th3Mayar.svg)](https://user-badge.committers.top/dominican_republic/Th3Mayar)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C068%20hrs%2013%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C082%20hrs%2022%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 75 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -73,16 +73,16 @@
 
 ```text
 🌞 Morning                1521 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-🌆 Daytime                7137 commits        ███████████████░░░░░░░░░░   58.76 % 
+🌆 Daytime                7139 commits        ███████████████░░░░░░░░░░   58.77 % 
 🌃 Evening                2778 commits        ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
-🌙 Night                  710 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+🌙 Night                  710 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   2313 commits        █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
-Tuesday                  3216 commits        ███████░░░░░░░░░░░░░░░░░░   26.48 % 
-Wednesday                1704 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+Tuesday                  3216 commits        ███████░░░░░░░░░░░░░░░░░░   26.47 % 
+Wednesday                1706 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
 Thursday                 2456 commits        █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
 Friday                   1110 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
 Saturday                 539 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
@@ -96,16 +96,20 @@ Sunday                   808 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Santo_Domingo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               5 hrs 57 mins       ██████████████░░░░░░░░░░░   55.52 % 
+PHP                      3 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   31.97 % 
+Blade Template           1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  10 hrs 43 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+gizmo                    10 hrs 43 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      10 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -125,7 +129,7 @@ Astro                    4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Th3Mayar/Th3Mayar/main/assets/bar_graph.png)
 
 
- Last Updated on 01/06/2025 18:47:04 UTC
+ Last Updated on 04/06/2025 19:02:27 UTC
 <!--END_SECTION:waka-->
 
 ### 📊 My stats:
