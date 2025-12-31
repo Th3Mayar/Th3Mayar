@@ -55,7 +55,7 @@
 ### 📊 Wakatime stats:
 [![committers.top badge](https://user-badge.committers.top/dominican_republic/Th3Mayar.svg)](https://user-badge.committers.top/dominican_republic/Th3Mayar)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C791%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C791%20hrs%2034%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -96,17 +96,16 @@ Sunday                   1489 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Santo_Domingo
 
 💬 Programming Languages: 
-Markdown                 19 mins             ████████████████░░░░░░░░░   64.11 % 
-Text                     11 mins             █████████░░░░░░░░░░░░░░░░   35.89 % 
+Markdown                 19 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Cursor                   30 mins             █████████████████████████   100.00 % 
+Cursor                   19 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-hotels-at-home           30 mins             █████████████████████████   100.00 % 
+hotels-at-home           19 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      30 mins             █████████████████████████   100.00 % 
+WSL                      19 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -126,7 +125,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Th3Mayar/Th3Mayar/main/assets/bar_graph.png)
 
 
- Last Updated on 30/12/2025 18:55:15 UTC
+ Last Updated on 31/12/2025 18:52:32 UTC
 <!--END_SECTION:waka-->
 
 ### 📊 My stats:
