@@ -55,7 +55,7 @@
 ### 📊 Wakatime stats:
 [![committers.top badge](https://user-badge.committers.top/dominican_republic/Th3Mayar.svg)](https://user-badge.committers.top/dominican_republic/Th3Mayar)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C807%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C807%20hrs-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -126,7 +126,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Th3Mayar/Th3Mayar/main/assets/bar_graph.png)
 
 
- Last Updated on 04/01/2026 18:52:55 UTC
+ Last Updated on 05/01/2026 18:57:45 UTC
 <!--END_SECTION:waka-->
 
 ### 📊 My stats:
