@@ -55,7 +55,7 @@
 ### 📊 Wakatime stats:
 [![committers.top badge](https://user-badge.committers.top/dominican_republic/Th3Mayar.svg)](https://user-badge.committers.top/dominican_republic/Th3Mayar)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C820%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C821%20hrs%2012%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -96,21 +96,17 @@ Sunday                   1513 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Santo_Domingo
 
 💬 Programming Languages: 
-TypeScript               50 mins             ████████░░░░░░░░░░░░░░░░░   33.35 % 
-SQL                      49 mins             ████████░░░░░░░░░░░░░░░░░   32.64 % 
-Vue.js                   48 mins             ████████░░░░░░░░░░░░░░░░░   32.26 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Docker                   24 mins             ███████████████░░░░░░░░░░   61.46 % 
+Bash                     15 mins             ██████████░░░░░░░░░░░░░░░   38.54 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 31 mins       █████████████████████████   100.00 % 
+VS Code                  40 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-RescueTrack              2 hrs 28 mins       █████████████████████████   98.26 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+n8n                      40 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      2 hrs 28 mins       █████████████████████████   98.26 % 
-Windows                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+WSL                      40 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -130,7 +126,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Th3Mayar/Th3Mayar/main/assets/bar_graph.png)
 
 
- Last Updated on 20/01/2026 19:42:44 UTC
+ Last Updated on 21/01/2026 19:07:30 UTC
 <!--END_SECTION:waka-->
 
 ### 📊 My stats:
