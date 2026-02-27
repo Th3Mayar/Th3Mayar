@@ -55,7 +55,7 @@
 ### 📊 Wakatime stats:
 [![committers.top badge](https://user-badge.committers.top/dominican_republic/Th3Mayar.svg)](https://user-badge.committers.top/dominican_republic/Th3Mayar)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C863%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C864%20hrs%2011%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -96,16 +96,18 @@ Sunday                   1582 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Santo_Domingo
 
 💬 Programming Languages: 
-PowerShell               1 hr 16 mins        █████████████████████████   100.00 % 
+PowerShell               38 mins             ██████████████████░░░░░░░   73.81 % 
+JSON                     13 mins             ███████░░░░░░░░░░░░░░░░░░   26.19 % 
 
 🔥 Editors: 
-VS Code                  1 hr 16 mins        █████████████████████████   100.00 % 
+VS Code                  51 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-script-pf-mailboxes      1 hr 16 mins        █████████████████████████   100.00 % 
+script-pf-mailboxes      38 mins             ██████████████████░░░░░░░   73.81 % 
+agents-skills            13 mins             ███████░░░░░░░░░░░░░░░░░░   26.19 % 
 
 💻 Operating System: 
-WSL                      1 hr 16 mins        █████████████████████████   100.00 % 
+WSL                      51 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -125,7 +127,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Th3Mayar/Th3Mayar/main/assets/bar_graph.png)
 
 
- Last Updated on 26/02/2026 19:17:22 UTC
+ Last Updated on 27/02/2026 19:11:02 UTC
 <!--END_SECTION:waka-->
 
 ### 📊 My stats:
