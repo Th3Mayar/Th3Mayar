@@ -55,7 +55,7 @@
 ### 📊 Wakatime stats:
 [![committers.top badge](https://user-badge.committers.top/dominican_republic/Th3Mayar.svg)](https://user-badge.committers.top/dominican_republic/Th3Mayar)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C980%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C982%20hrs%2042%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -103,8 +103,8 @@ JSON                     2 mins              ██░░░░░░░░░�
 SCSS                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
 
 🔥 Editors: 
-VS Code                  20 mins             ████████████████░░░░░░░░░   62.17 % 
-Unknown Editor           12 mins             █████████░░░░░░░░░░░░░░░░   37.83 % 
+VS Code                  22 mins             █████████████████░░░░░░░░   69.69 % 
+Unknown Editor           9 mins              ████████░░░░░░░░░░░░░░░░░   30.31 % 
 
 🐱‍💻 Projects: 
 json-gui-teamwork-dashboa13 mins             ██████████░░░░░░░░░░░░░░░   40.26 % 
@@ -135,7 +135,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Th3Mayar/Th3Mayar/main/assets/bar_graph.png)
 
 
- Last Updated on 17/05/2026 19:51:17 UTC
+ Last Updated on 18/05/2026 20:15:42 UTC
 <!--END_SECTION:waka-->
 
 ### 📊 My stats:
