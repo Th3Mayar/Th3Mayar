@@ -55,7 +55,7 @@
 ### 📊 Wakatime stats:
 [![committers.top badge](https://user-badge.committers.top/dominican_republic/Th3Mayar.svg)](https://user-badge.committers.top/dominican_republic/Th3Mayar)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C983%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C983%20hrs%2051%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -96,22 +96,16 @@ Sunday                   1362 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Santo_Domingo
 
 💬 Programming Languages: 
-Bash                     18 mins             █████████████░░░░░░░░░░░░   52.01 % 
-JavaScript               10 mins             ████████░░░░░░░░░░░░░░░░░   30.25 % 
-TypeScript               3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-YAML                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  35 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-coolify-glue-webhook     27 mins             ███████████████████░░░░░░   76.52 % 
-json-gui-teamwork-dashboa5 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
-infrastructure-as-code   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      35 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -131,7 +125,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Th3Mayar/Th3Mayar/main/assets/bar_graph.png)
 
 
- Last Updated on 29/05/2026 20:50:19 UTC
+ Last Updated on 30/05/2026 19:53:08 UTC
 <!--END_SECTION:waka-->
 
 ### 📊 My stats:
