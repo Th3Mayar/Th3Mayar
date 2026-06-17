@@ -55,7 +55,7 @@
 ### 📊 Wakatime stats:
 [![committers.top badge](https://user-badge.committers.top/dominican_republic/Th3Mayar.svg)](https://user-badge.committers.top/dominican_republic/Th3Mayar)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C986%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C987%20hrs%2017%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -96,16 +96,20 @@ Sunday                   1362 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Santo_Domingo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     54 mins             ███████████░░░░░░░░░░░░░░   43.96 % 
+Markdown                 15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+TypeScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Vue                      10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+Git Config               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 4 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+coolify-inventory        2 hrs 4 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      2 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -125,7 +129,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Th3Mayar/Th3Mayar/main/assets/bar_graph.png)
 
 
- Last Updated on 16/06/2026 19:54:06 UTC
+ Last Updated on 17/06/2026 19:25:12 UTC
 <!--END_SECTION:waka-->
 
 ### 📊 My stats:
