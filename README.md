@@ -55,7 +55,7 @@
 ### 📊 Wakatime stats:
 [![committers.top badge](https://user-badge.committers.top/dominican_republic/Th3Mayar.svg)](https://user-badge.committers.top/dominican_republic/Th3Mayar)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C010%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C010%20hrs%2016%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -96,21 +96,19 @@ Sunday                   1386 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Santo_Domingo
 
 💬 Programming Languages: 
-TypeScript               1 hr 45 mins        ████████████░░░░░░░░░░░░░   46.00 % 
-JSON                     1 hr 29 mins        ██████████░░░░░░░░░░░░░░░   39.39 % 
-Git Config               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-YAML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+TypeScript               9 mins              ████████████░░░░░░░░░░░░░   48.86 % 
+JSON                     8 mins              ███████████░░░░░░░░░░░░░░   43.63 % 
+Markdown                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 48 mins       █████████████████████████   100.00 % 
+VS Code                  19 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-json-gui-teamwork-dashboa3 hrs 46 mins       █████████████████████████   99.37 % 
-hotels-at-home           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+json-gui-teamwork-dashboa17 mins             ███████████████████████░░   92.49 % 
+hotels-at-home           1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
 
 💻 Operating System: 
-WSL                      3 hrs 48 mins       █████████████████████████   100.00 % 
+WSL                      19 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -130,7 +128,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Th3Mayar/Th3Mayar/main/assets/bar_graph.png)
 
 
- Last Updated on 16/07/2026 18:57:49 UTC
+ Last Updated on 17/07/2026 18:54:32 UTC
 <!--END_SECTION:waka-->
 
 ### 📊 My stats:
