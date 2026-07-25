@@ -55,11 +55,13 @@
 ### 📊 Wakatime stats:
 [![committers.top badge](https://user-badge.committers.top/dominican_republic/Th3Mayar.svg)](https://user-badge.committers.top/dominican_republic/Th3Mayar)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C013%20hrs%2015%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,079 Contributions in the Year 2026
+> 🏆 1,080 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -71,8 +73,8 @@
 
 ```text
 🌞 Morning                2859 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-🌆 Daytime                10650 commits       ██████████████░░░░░░░░░░░   54.12 % 
-🌃 Evening                4969 commits        ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
+🌆 Daytime                10650 commits       ██████████████░░░░░░░░░░░   54.11 % 
+🌃 Evening                4970 commits        ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
 🌙 Night                  1202 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
@@ -82,7 +84,7 @@ Monday                   3603 commits        █████░░░░░░�
 Tuesday                  4839 commits        ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
 Wednesday                2810 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
 Thursday                 3617 commits        █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
-Friday                   2348 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+Friday                   2349 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
 Saturday                 1077 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
 Sunday                   1386 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
 ```
@@ -94,21 +96,25 @@ Sunday                   1386 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Santo_Domingo
 
 💬 Programming Languages: 
-YAML                     11 mins             ███████████████░░░░░░░░░░   61.10 % 
-JSON                     3 mins              █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
-Markdown                 3 mins              █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+YAML                     39 mins             ██████████░░░░░░░░░░░░░░░   39.29 % 
+Image (svg)              23 mins             ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
+Markdown                 20 mins             █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
+Docker                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
 
 🔥 Editors: 
-VS Code                  19 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 18 mins        ███████████████████░░░░░░   76.98 % 
+Claude Code              23 mins             ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
 
 🐱‍💻 Projects: 
-hotels-at-home           14 mins             ████████████████████░░░░░   78.10 % 
-aws-finops-discovery     4 mins              █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
-json-gui-teamwork-dashboa0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+hah-rum-us-glue-alerts   46 mins             ████████████░░░░░░░░░░░░░   46.25 % 
+codepointrd              35 mins             █████████░░░░░░░░░░░░░░░░   35.05 % 
+hotels-at-home           11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+aws-finops-discovery     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+codepointrd-landing      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 
 💻 Operating System: 
-WSL                      19 mins             █████████████████████████   100.00 % 
+WSL                      1 hr 41 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -128,7 +134,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Th3Mayar/Th3Mayar/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 19:08:58 UTC
+ Last Updated on 25/07/2026 18:54:41 UTC
 <!--END_SECTION:waka-->
 
 ### 📊 My stats:
