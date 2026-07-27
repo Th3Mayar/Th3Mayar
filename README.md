@@ -55,7 +55,9 @@
 ### 📊 Wakatime stats:
 [![committers.top badge](https://user-badge.committers.top/dominican_republic/Th3Mayar.svg)](https://user-badge.committers.top/dominican_republic/Th3Mayar)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C013%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C791%20hrs-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-149%20hrs%2041%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -117,6 +119,28 @@ codepointrd-landing      3 mins              █░░░░░░░░░░�
 WSL                      1 hr 41 mins        █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 27 mins (27.07%)
+
+✍️ 15 lines written by AI, 261 lines written by hand (5.43% AI-written)
+
+🔤 4,184,143 Input Tokens, 33,155 Output Tokens
+
+💵 $13.05 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 6 AI Prompts
+
+Sonnet                   18 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 5.43% of written lines came from AI
+📄 Detailed Prompter — average 831 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 95.73% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -134,7 +158,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Th3Mayar/Th3Mayar/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 18:55:07 UTC
+ Last Updated on 27/07/2026 19:06:41 UTC
 <!--END_SECTION:waka-->
 
 ### 📊 My stats:
