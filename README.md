@@ -98,46 +98,45 @@ Sunday                   1386 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Santo_Domingo
 
 💬 Programming Languages: 
-YAML                     39 mins             ██████████░░░░░░░░░░░░░░░   40.94 % 
-Image (svg)              23 mins             ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
-Markdown                 20 mins             █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
-Docker                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+YAML                     28 mins             ████████░░░░░░░░░░░░░░░░░   32.88 % 
+Image (svg)              23 mins             ███████░░░░░░░░░░░░░░░░░░   27.91 % 
+Markdown                 20 mins             ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
+Docker                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
 
 🔥 Editors: 
-VS Code                  1 hr 14 mins        ███████████████████░░░░░░   76.01 % 
-Claude Code              23 mins             ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
+VS Code                  1 hr 2 mins         ██████████████████░░░░░░░   72.45 % 
+Claude Code              23 mins             ███████░░░░░░░░░░░░░░░░░░   27.55 % 
 
 🐱‍💻 Projects: 
-hah-rum-us-glue-alerts   46 mins             ████████████░░░░░░░░░░░░░   48.20 % 
-codepointrd              35 mins             █████████░░░░░░░░░░░░░░░░   36.53 % 
-hotels-at-home           11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-codepointrd-landing      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+hah-rum-us-glue-alerts   46 mins             ██████████████░░░░░░░░░░░   54.78 % 
+codepointrd              35 mins             ██████████░░░░░░░░░░░░░░░   41.51 % 
+codepointrd-landing      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
 
 💻 Operating System: 
-WSL                      1 hr 37 mins        █████████████████████████   100.00 % 
+WSL                      1 hr 25 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 mins (28.21%)
+⏱ AI Coding Time: 26 mins (31.21%)
 
-✍️ 15 lines written by AI, 260 lines written by hand (5.45% AI-written)
+✍️ 15 lines written by AI, 53 lines written by hand (22.06% AI-written)
 
-🔤 4,184,143 Input Tokens, 33,155 Output Tokens
+🔤 5,417,455 Input Tokens, 36,409 Output Tokens
 
-💵 $13.05 Estimated AI Cost This Week
+💵 $16.80 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 6 AI Prompts
+🧠 1 AI Sessions, 34 AI Prompts
 
 Sonnet                   18 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 5.45% of written lines came from AI
-📄 Detailed Prompter — average 831 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 95.71% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 22.06% of written lines came from AI
+📝 Concise Prompter — average 166 characters per prompt
+🔁 Iterative Prompter — average 34 prompts per session
+🔍 Hands-On Reviewer — 91.09% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -157,7 +156,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Th3Mayar/Th3Mayar/main/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2026 19:05:57 UTC
+ Last Updated on 31/07/2026 19:04:47 UTC
 <!--END_SECTION:waka-->
 
 ### 📊 My stats:
