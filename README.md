@@ -55,7 +55,7 @@
 ### 📊 Wakatime stats:
 [![committers.top badge](https://user-badge.committers.top/dominican_republic/Th3Mayar.svg)](https://user-badge.committers.top/dominican_republic/Th3Mayar)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C791%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C791%20hrs%2016%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-149%20hrs%2041%20mins-blue?style=flat)
 
@@ -98,45 +98,22 @@ Sunday                   1386 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Santo_Domingo
 
 💬 Programming Languages: 
-YAML                     28 mins             ████████░░░░░░░░░░░░░░░░░   32.88 % 
-Image (svg)              23 mins             ███████░░░░░░░░░░░░░░░░░░   27.91 % 
-Markdown                 20 mins             ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
-Docker                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+TypeScript               16 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 2 mins         ██████████████████░░░░░░░   72.45 % 
-Claude Code              23 mins             ███████░░░░░░░░░░░░░░░░░░   27.55 % 
+VS Code                  16 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-hah-rum-us-glue-alerts   46 mins             ██████████████░░░░░░░░░░░   54.78 % 
-codepointrd              35 mins             ██████████░░░░░░░░░░░░░░░   41.51 % 
-codepointrd-landing      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+json-gui-teamwork-dashboa16 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      1 hr 25 mins        █████████████████████████   100.00 % 
+WSL                      16 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 mins (31.21%)
-
-✍️ 15 lines written by AI, 53 lines written by hand (22.06% AI-written)
-
-🔤 5,417,455 Input Tokens, 36,409 Output Tokens
-
-💵 $16.80 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 34 AI Prompts
-
-Sonnet                   18 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 22.06% of written lines came from AI
-📝 Concise Prompter — average 166 characters per prompt
-🔁 Iterative Prompter — average 34 prompts per session
-🔍 Hands-On Reviewer — 91.09% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -156,7 +133,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Th3Mayar/Th3Mayar/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2026 19:04:47 UTC
+ Last Updated on 01/08/2026 18:55:41 UTC
 <!--END_SECTION:waka-->
 
 ### 📊 My stats:
