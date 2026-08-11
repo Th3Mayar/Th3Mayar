@@ -98,21 +98,20 @@ Sunday                   1386 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Santo_Domingo
 
 💬 Programming Languages: 
-JSON                     26 mins             █████████████░░░░░░░░░░░░   51.87 % 
-Markdown                 10 mins             █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
-TypeScript               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-YAML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+JSON                     31 mins             ██████████░░░░░░░░░░░░░░░   40.79 % 
+Markdown                 15 mins             █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
+Text                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
+Checksums                6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+YAML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
 
 🔥 Editors: 
-VS Code                  51 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 17 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-hah-rum-us-glue-alerts   48 mins             ████████████████████████░   95.68 % 
-json-gui-teamwork-dashboa2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+hah-rum-us-glue-alerts   1 hr 17 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      51 mins             █████████████████████████   100.00 % 
+WSL                      1 hr 17 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -138,7 +137,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Th3Mayar/Th3Mayar/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2026 19:35:57 UTC
+ Last Updated on 11/08/2026 19:43:37 UTC
 <!--END_SECTION:waka-->
 
 ### 📊 My stats:
