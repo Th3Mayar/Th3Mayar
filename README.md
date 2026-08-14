@@ -98,20 +98,16 @@ Sunday                   1386 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Santo_Domingo
 
 💬 Programming Languages: 
-JSON                     31 mins             ██████████░░░░░░░░░░░░░░░   40.79 % 
-Markdown                 15 mins             █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
-Text                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
-Checksums                6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-YAML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 17 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-hah-rum-us-glue-alerts   1 hr 17 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      1 hr 17 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -137,7 +133,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Th3Mayar/Th3Mayar/main/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2026 19:42:56 UTC
+ Last Updated on 14/08/2026 19:35:49 UTC
 <!--END_SECTION:waka-->
 
 ### 📊 My stats:
