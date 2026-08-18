@@ -55,7 +55,7 @@
 ### 📊 Wakatime stats:
 [![committers.top badge](https://user-badge.committers.top/dominican_republic/Th3Mayar.svg)](https://user-badge.committers.top/dominican_republic/Th3Mayar)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C792%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C792%20hrs%2031%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-149%20hrs%2041%20mins-blue?style=flat)
 
@@ -63,7 +63,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,080 Contributions in the Year 2026
+> 🏆 1,083 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -76,17 +76,17 @@
 ```text
 🌞 Morning                2859 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
 🌆 Daytime                10650 commits       ██████████████░░░░░░░░░░░   54.11 % 
-🌃 Evening                4970 commits        ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
+🌃 Evening                4972 commits        ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
 🌙 Night                  1202 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   3603 commits        █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-Tuesday                  4839 commits        ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
+Monday                   3605 commits        █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+Tuesday                  4839 commits        ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
 Wednesday                2810 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
 Thursday                 3617 commits        █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
-Friday                   2349 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Friday                   2349 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
 Saturday                 1077 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
 Sunday                   1386 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
 ```
@@ -98,18 +98,22 @@ Sunday                   1386 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Santo_Domingo
 
 💬 Programming Languages: 
-YAML                     14 mins             █████████████████████████   99.18 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+YAML                     17 mins             ██████████████████░░░░░░░   73.69 % 
+Nginx configuration file 6 mins              ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-VS Code                  14 mins             █████████████████████████   100.00 % 
+VS Code                  24 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-rum-pre-consent-proxy    14 mins             █████████████████████████   100.00 % 
+rum-pre-consent-proxy    14 mins             ███████████████░░░░░░░░░░   58.86 % 
+supabase-mcp-proxy       6 mins              ██████░░░░░░░░░░░░░░░░░░░   25.83 % 
+infrastructure-as-code   3 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
 
 💻 Operating System: 
-WSL                      14 mins             █████████████████████████   100.00 % 
+WSL                      24 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -121,11 +125,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               19 repos            ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
-JavaScript               14 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-Vue                      10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Python                   8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+TypeScript               19 repos            ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
+JavaScript               14 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+Vue                      10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 ```
 
 
@@ -135,7 +139,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Th3Mayar/Th3Mayar/main/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2026 19:14:39 UTC
+ Last Updated on 18/08/2026 19:14:34 UTC
 <!--END_SECTION:waka-->
 
 ### 📊 My stats:
