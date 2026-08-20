@@ -55,7 +55,7 @@
 ### 📊 Wakatime stats:
 [![committers.top badge](https://user-badge.committers.top/dominican_republic/Th3Mayar.svg)](https://user-badge.committers.top/dominican_republic/Th3Mayar)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C792%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C793%20hrs%207%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-149%20hrs%2041%20mins-blue?style=flat)
 
@@ -98,22 +98,22 @@ Sunday                   1386 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Santo_Domingo
 
 💬 Programming Languages: 
-YAML                     18 mins             ██████████████████░░░░░░░   71.28 % 
-Nginx configuration file 6 mins              ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+YAML                     35 mins             ███████████████░░░░░░░░░░   59.80 % 
+Git Config               14 mins             ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
+Nginx configuration file 6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 
 🔥 Editors: 
-VS Code                  25 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr                █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-rum-pre-consent-proxy    15 mins             ███████████████░░░░░░░░░░   60.84 % 
-supabase-mcp-proxy       6 mins              ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
-infrastructure-as-code   3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+rum-pre-consent-proxy    50 mins             █████████████████████░░░░   83.43 % 
+supabase-mcp-proxy       6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+infrastructure-as-code   3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
 
 💻 Operating System: 
-WSL                      25 mins             █████████████████████████   100.00 % 
+WSL                      1 hr                █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -139,7 +139,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Th3Mayar/Th3Mayar/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2026 19:11:16 UTC
+ Last Updated on 20/08/2026 19:16:48 UTC
 <!--END_SECTION:waka-->
 
 ### 📊 My stats:
