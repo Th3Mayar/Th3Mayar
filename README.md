@@ -98,22 +98,22 @@ Sunday                   1386 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Santo_Domingo
 
 💬 Programming Languages: 
-YAML                     35 mins             ███████████████░░░░░░░░░░   59.80 % 
-Git Config               14 mins             ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
-Nginx configuration file 6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+YAML                     21 mins             ████████████░░░░░░░░░░░░░   47.56 % 
+Git Config               14 mins             ████████░░░░░░░░░░░░░░░░░   32.09 % 
+Nginx configuration file 6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 
 🔥 Editors: 
-VS Code                  1 hr                █████████████████████████   100.00 % 
+VS Code                  45 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-rum-pre-consent-proxy    50 mins             █████████████████████░░░░   83.43 % 
-supabase-mcp-proxy       6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-infrastructure-as-code   3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+rum-pre-consent-proxy    35 mins             ████████████████████░░░░░   78.28 % 
+supabase-mcp-proxy       6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+infrastructure-as-code   3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
 
 💻 Operating System: 
-WSL                      1 hr                █████████████████████████   100.00 % 
+WSL                      45 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -139,7 +139,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Th3Mayar/Th3Mayar/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2026 19:12:51 UTC
+ Last Updated on 22/08/2026 19:02:41 UTC
 <!--END_SECTION:waka-->
 
 ### 📊 My stats:
