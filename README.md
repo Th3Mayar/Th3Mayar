@@ -55,7 +55,7 @@
 ### 📊 Wakatime stats:
 [![committers.top badge](https://user-badge.committers.top/dominican_republic/Th3Mayar.svg)](https://user-badge.committers.top/dominican_republic/Th3Mayar)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C793%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C795%20hrs%2014%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-149%20hrs%2041%20mins-blue?style=flat)
 
@@ -63,7 +63,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,088 Contributions in the Year 2026
+> 🏆 1,092 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -75,20 +75,20 @@
 
 ```text
 🌞 Morning                2859 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-🌆 Daytime                10654 commits       ██████████████░░░░░░░░░░░   54.12 % 
-🌃 Evening                4972 commits        ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
-🌙 Night                  1202 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+🌆 Daytime                10658 commits       ██████████████░░░░░░░░░░░   54.13 % 
+🌃 Evening                4972 commits        ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
+🌙 Night                  1202 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   3605 commits        █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-Tuesday                  4839 commits        ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
+Tuesday                  4839 commits        ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
 Wednesday                2810 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
 Thursday                 3617 commits        █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
 Friday                   2349 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
 Saturday                 1077 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-Sunday                   1390 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+Sunday                   1394 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
 ```
 
 
@@ -98,22 +98,23 @@ Sunday                   1390 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Santo_Domingo
 
 💬 Programming Languages: 
-YAML                     21 mins             ████████████░░░░░░░░░░░░░   47.56 % 
-Git Config               14 mins             ████████░░░░░░░░░░░░░░░░░   32.09 % 
-Nginx configuration file 6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+JSON                     38 mins             █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
+YAML                     32 mins             █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
+HTML                     28 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+Git Config               25 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+Vue                      18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
 
 🔥 Editors: 
-VS Code                  45 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 53 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-rum-pre-consent-proxy    35 mins             ████████████████████░░░░░   78.28 % 
-supabase-mcp-proxy       6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-infrastructure-as-code   3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+elite-rifas              2 hrs 7 mins        ██████████████████░░░░░░░   73.57 % 
+rum-pre-consent-proxy    35 mins             █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+supabase-mcp-proxy       6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+infrastructure-as-code   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 
 💻 Operating System: 
-WSL                      45 mins             █████████████████████████   100.00 % 
+WSL                      2 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -139,7 +140,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Th3Mayar/Th3Mayar/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2026 19:02:07 UTC
+ Last Updated on 24/08/2026 19:18:30 UTC
 <!--END_SECTION:waka-->
 
 ### 📊 My stats:
