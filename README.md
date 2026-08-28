@@ -98,21 +98,20 @@ Sunday                   1394 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Santo_Domingo
 
 💬 Programming Languages: 
-JSON                     37 mins             ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
-YAML                     28 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
-HTML                     28 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-Git Config               25 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
-Vue                      18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+JSON                     37 mins             ███████░░░░░░░░░░░░░░░░░░   29.00 % 
+HTML                     28 mins             █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
+Vue                      18 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+Git Config               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+YAML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 42 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 7 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-elite-rifas              2 hrs 7 mins        ████████████████████░░░░░   78.64 % 
-rum-pre-consent-proxy    34 mins             █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
+elite-rifas              2 hrs 7 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      2 hrs 42 mins       █████████████████████████   100.00 % 
+WSL                      2 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -138,7 +137,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Th3Mayar/Th3Mayar/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2026 20:27:08 UTC
+ Last Updated on 28/08/2026 02:24:34 UTC
 <!--END_SECTION:waka-->
 
 ### 📊 My stats:
