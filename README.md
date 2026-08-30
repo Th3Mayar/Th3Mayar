@@ -55,7 +55,7 @@
 ### 📊 Wakatime stats:
 [![committers.top badge](https://user-badge.committers.top/dominican_republic/Th3Mayar.svg)](https://user-badge.committers.top/dominican_republic/Th3Mayar)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C797%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C797%20hrs%2035%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-149%20hrs%2041%20mins-blue?style=flat)
 
@@ -98,22 +98,23 @@ Sunday                   1394 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Santo_Domingo
 
 💬 Programming Languages: 
-YAML                     2 hrs 7 mins        ████████████░░░░░░░░░░░░░   49.57 % 
-JSON                     41 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
-HTML                     28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-Vue                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-Git Config               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+YAML                     2 hrs 7 mins        ████████████░░░░░░░░░░░░░   47.37 % 
+JSON                     44 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+HTML                     28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+Vue                      26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+Git Config               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 17 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 29 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-elite-rifas              2 hrs 7 mins        ████████████░░░░░░░░░░░░░   49.67 % 
-infrastructure-as-code   2 hrs 5 mins        ████████████░░░░░░░░░░░░░   48.93 % 
-hah-rum-us-glue-alerts   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+elite-rifas              2 hrs 16 mins       █████████████░░░░░░░░░░░░   50.73 % 
+infrastructure-as-code   2 hrs 5 mins        ████████████░░░░░░░░░░░░░   46.76 % 
+hah-rum-us-glue-alerts   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+arcadia                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 💻 Operating System: 
-WSL                      4 hrs 17 mins       █████████████████████████   100.00 % 
+WSL                      4 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -139,7 +140,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Th3Mayar/Th3Mayar/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 21:10:24 UTC
+ Last Updated on 30/08/2026 21:25:00 UTC
 <!--END_SECTION:waka-->
 
 ### 📊 My stats:
