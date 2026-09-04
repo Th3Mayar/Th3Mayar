@@ -55,15 +55,15 @@
 ### 📊 Wakatime stats:
 [![committers.top badge](https://user-badge.committers.top/dominican_republic/Th3Mayar.svg)](https://user-badge.committers.top/dominican_republic/Th3Mayar)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C830%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C840%20hrs%202%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-181%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-189%20hrs%2044%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,176 Contributions in the Year 2026
+> 🏆 1,184 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -74,21 +74,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2866 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-🌆 Daytime                10611 commits       █████████████░░░░░░░░░░░░   53.99 % 
-🌃 Evening                4977 commits        ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
-🌙 Night                  1201 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+🌞 Morning                2900 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+🌆 Daytime                10762 commits       ██████████████░░░░░░░░░░░   54.07 % 
+🌃 Evening                5029 commits        ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
+🌙 Night                  1214 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   3593 commits        █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-Tuesday                  4829 commits        ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
-Wednesday                2826 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-Thursday                 3600 commits        █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
-Friday                   2339 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-Saturday                 1073 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-Sunday                   1395 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+Monday                   3643 commits        █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
+Tuesday                  4895 commits        ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
+Wednesday                2860 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Thursday                 3655 commits        █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
+Friday                   2364 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Saturday                 1081 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Sunday                   1407 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
 ```
 
 
@@ -98,52 +98,52 @@ Sunday                   1395 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Santo_Domingo
 
 💬 Programming Languages: 
-TypeScript               7 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
-Vue                      7 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
-JavaScript               6 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-Markdown                 5 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-SQL                      3 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+TypeScript               12 hrs 9 mins       ███████░░░░░░░░░░░░░░░░░░   27.87 % 
+Vue                      9 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
+JavaScript               7 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
+Markdown                 6 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+SQL                      3 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
 
 🔥 Editors: 
-Claude Code              20 hrs 55 mins      ███████████████░░░░░░░░░░   58.50 % 
-Codex CLI                8 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
-VS Code                  6 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+Claude Code              27 hrs 18 mins      ████████████████░░░░░░░░░   62.57 % 
+Codex CLI                11 hrs 4 mins       ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
+VS Code                  5 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
 
 🐱‍💻 Projects: 
-arcadia-foundation       31 hrs 59 mins      ██████████████████████░░░   89.43 % 
-infrastructure-as-code   2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-Unknown Project          1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
-codesys                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-hah-rum-us-glue-alerts   13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+arcadia-foundation       41 hrs 31 mins      ████████████████████████░   95.15 % 
+Unknown Project          1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+hah_hileu_ecs_service_cdk27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+codesys                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+elite-rifas              8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 💻 Operating System: 
-Linux                    33 hrs 15 mins      ███████████████████████░░   92.97 % 
-WSL                      2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Linux                    42 hrs 52 mins      █████████████████████████   98.26 % 
+WSL                      45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 hrs 39 mins (88.48%)
+⏱ AI Coding Time: 40 hrs 55 mins (93.76%)
 
-✍️ 36,908 lines written by AI, 354 lines written by hand (99.05% AI-written)
+✍️ 49,247 lines written by AI, 245 lines written by hand (99.5% AI-written)
 
-🔤 13,020,331 Input Tokens, 3,669,483 Output Tokens
+🔤 18,936,403 Input Tokens, 5,056,783 Output Tokens
 
-💵 $540.65 Estimated AI Cost This Week
+💵 $747.33 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 105 AI Prompts
+🧠 16 AI Sessions, 127 AI Prompts
 
-Sonnet                   27,473 lines        ██████████████████░░░░░░░   72.22 % 
-GPT                      10,566 lines        ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+Sonnet                   38,770 lines        ███████████████████░░░░░░   76.65 % 
+GPT                      11,813 lines        ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.05% of written lines came from AI
-📚 Verbose Prompter — average 17,219 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 6.55% of changed lines were hand-edited
+🤖 AI-Driven — 99.5% of written lines came from AI
+📚 Verbose Prompter — average 17,539 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 4.81% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -163,7 +163,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Th3Mayar/Th3Mayar/main/assets/bar_graph.png)
 
 
- Last Updated on 03/09/2026 21:21:31 UTC
+ Last Updated on 04/09/2026 21:02:26 UTC
 <!--END_SECTION:waka-->
 
 ### 📊 My stats:
