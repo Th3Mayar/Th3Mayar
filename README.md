@@ -55,15 +55,15 @@
 ### 📊 Wakatime stats:
 [![committers.top badge](https://user-badge.committers.top/dominican_republic/Th3Mayar.svg)](https://user-badge.committers.top/dominican_republic/Th3Mayar)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C853%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C858%20hrs%2035%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-203%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-207%20hrs%2059%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,192 Contributions in the Year 2026
+> 🏆 1,193 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -74,7 +74,7 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2900 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+🌞 Morning                2901 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
 🌆 Daytime                10763 commits       ██████████████░░░░░░░░░░░   54.05 % 
 🌃 Evening                5036 commits        ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
 🌙 Night                  1214 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
@@ -83,7 +83,7 @@
 
 ```text
 Monday                   3643 commits        █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
-Tuesday                  4895 commits        ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
+Tuesday                  4896 commits        ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
 Wednesday                2860 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
 Thursday                 3655 commits        █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
 Friday                   2369 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
@@ -98,52 +98,52 @@ Sunday                   1409 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Santo_Domingo
 
 💬 Programming Languages: 
-TypeScript               16 hrs 33 mins      ████████░░░░░░░░░░░░░░░░░   30.39 % 
-Vue                      12 hrs 35 mins      ██████░░░░░░░░░░░░░░░░░░░   23.11 % 
-Markdown                 8 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-JavaScript               8 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-SQL                      5 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+TypeScript               16 hrs 43 mins      ████████░░░░░░░░░░░░░░░░░   32.88 % 
+Vue                      12 hrs 25 mins      ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
+JavaScript               7 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+Markdown                 7 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+SQL                      4 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
 
 🔥 Editors: 
-Claude Code              36 hrs 22 mins      █████████████████░░░░░░░░   66.76 % 
-Codex CLI                12 hrs 19 mins      ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
-VS Code                  5 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+Claude Code              35 hrs 44 mins      ██████████████████░░░░░░░   70.31 % 
+Codex CLI                9 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
+VS Code                  5 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
 
 🐱‍💻 Projects: 
-arcadia-foundation       52 hrs 14 mins      ████████████████████████░   95.87 % 
-Unknown Project          1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
-hah_hileu_ecs_service_cdk39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-codesys                  19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-hah-rum-us-glue-alerts   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+arcadia-foundation       49 hrs 11 mins      ████████████████████████░   96.76 % 
+Unknown Project          39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+hah_hileu_ecs_service_cdk39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+codesys                  17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+kem                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Linux                    53 hrs 44 mins      █████████████████████████   98.62 % 
-WSL                      45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+Linux                    50 hrs 9 mins       █████████████████████████   98.64 % 
+WSL                      41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 52 hrs 3 mins (95.53%)
+⏱ AI Coding Time: 48 hrs 58 mins (96.33%)
 
-✍️ 53,469 lines written by AI, 214 lines written by hand (99.6% AI-written)
+✍️ 50,920 lines written by AI, 206 lines written by hand (99.6% AI-written)
 
-🔤 27,102,300 Input Tokens, 6,498,216 Output Tokens
+🔤 25,815,813 Input Tokens, 6,256,387 Output Tokens
 
-💵 $989.19 Estimated AI Cost This Week
+💵 $990.47 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 161 AI Prompts
+🧠 20 AI Sessions, 152 AI Prompts
 
-Sonnet                   45,645 lines        █████████████████████░░░░   83.19 % 
-GPT                      9,226 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+Sonnet                   44,624 lines        █████████████████████░░░░   85.48 % 
+GPT                      7,578 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.6% of written lines came from AI
-📚 Verbose Prompter — average 20,074 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 7.27% of changed lines were hand-edited
+📚 Verbose Prompter — average 22,013 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 7.6% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -163,7 +163,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Th3Mayar/Th3Mayar/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2026 21:47:17 UTC
+ Last Updated on 08/09/2026 21:27:20 UTC
 <!--END_SECTION:waka-->
 
 ### 📊 My stats:
