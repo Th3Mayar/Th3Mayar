@@ -98,51 +98,47 @@ Sunday                   1431 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Santo_Domingo
 
 💬 Programming Languages: 
-TypeScript               19 hrs 49 mins      █████████░░░░░░░░░░░░░░░░   34.81 % 
-Vue                      15 hrs 3 mins       ███████░░░░░░░░░░░░░░░░░░   26.44 % 
-Markdown                 6 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-SQL                      5 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-JavaScript               5 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+TypeScript               16 hrs 57 mins      █████████░░░░░░░░░░░░░░░░   34.76 % 
+Vue                      11 hrs 42 mins      ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
+Markdown                 6 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+SQL                      4 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+JavaScript               4 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
 
 🔥 Editors: 
-Claude Code              51 hrs 23 mins      ███████████████████████░░   90.25 % 
-VS Code                  4 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-Codex CLI                1 hr 3 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+Claude Code              44 hrs 38 mins      ███████████████████████░░   91.50 % 
+VS Code                  4 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
 
 🐱‍💻 Projects: 
-arcadia-foundation       45 hrs 17 mins      ████████████████████░░░░░   79.53 % 
-elite-rifas              11 hrs 28 mins      █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
-Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-hah-rum-us-glue-alerts   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+arcadia-foundation       37 hrs 16 mins      ███████████████████░░░░░░   76.39 % 
+elite-rifas              11 hrs 28 mins      ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
+hah-rum-us-glue-alerts   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Linux                    56 hrs 54 mins      █████████████████████████   99.92 % 
-WSL                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Linux                    48 hrs 44 mins      █████████████████████████   99.91 % 
+WSL                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 55 hrs 12 mins (96.96%)
+⏱ AI Coding Time: 47 hrs 9 mins (96.65%)
 
-✍️ 63,773 lines written by AI, 1,677 lines written by hand (97.44% AI-written)
+✍️ 59,419 lines written by AI, 1,664 lines written by hand (97.28% AI-written)
 
-🔤 26,101,620 Input Tokens, 5,863,944 Output Tokens
+🔤 23,036,044 Input Tokens, 5,246,071 Output Tokens
 
-💵 $1240.97 Estimated AI Cost This Week
+💵 $1105.77 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 92 AI Prompts
+🧠 14 AI Sessions, 70 AI Prompts
 
-Sonnet                   40,406 lines        ███████████████░░░░░░░░░░   61.32 % 
-Opus                     24,710 lines        █████████░░░░░░░░░░░░░░░░   37.50 % 
-GPT                      778 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   36,751 lines        ███████████████░░░░░░░░░░   59.80 % 
+Opus                     24,710 lines        ██████████░░░░░░░░░░░░░░░   40.20 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.44% of written lines came from AI
-📚 Verbose Prompter — average 10,055 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 8.32% of changed lines were hand-edited
+🤖 AI-Driven — 97.28% of written lines came from AI
+📚 Verbose Prompter — average 10,940 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 8.83% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -162,7 +158,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Th3Mayar/Th3Mayar/main/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2026 21:54:50 UTC
+ Last Updated on 26/09/2026 21:30:57 UTC
 <!--END_SECTION:waka-->
 
 ### 📊 My stats:
