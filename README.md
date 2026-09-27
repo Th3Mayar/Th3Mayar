@@ -98,47 +98,47 @@ Sunday                   1431 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Santo_Domingo
 
 💬 Programming Languages: 
-TypeScript               16 hrs 57 mins      █████████░░░░░░░░░░░░░░░░   34.76 % 
-Vue                      11 hrs 42 mins      ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
-Markdown                 6 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-SQL                      4 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-JavaScript               4 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+TypeScript               15 hrs 39 mins      █████████░░░░░░░░░░░░░░░░   35.55 % 
+Vue                      10 hrs 28 mins      ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
+Markdown                 6 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+SQL                      4 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+JavaScript               3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
 
 🔥 Editors: 
-Claude Code              44 hrs 38 mins      ███████████████████████░░   91.50 % 
-VS Code                  4 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+Claude Code              40 hrs 15 mins      ███████████████████████░░   91.42 % 
+VS Code                  3 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
 
 🐱‍💻 Projects: 
-arcadia-foundation       37 hrs 16 mins      ███████████████████░░░░░░   76.39 % 
-elite-rifas              11 hrs 28 mins      ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
-hah-rum-us-glue-alerts   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+arcadia-foundation       32 hrs 30 mins      ██████████████████░░░░░░░   73.84 % 
+elite-rifas              11 hrs 28 mins      ███████░░░░░░░░░░░░░░░░░░   26.06 % 
+hah-rum-us-glue-alerts   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Linux                    48 hrs 44 mins      █████████████████████████   99.91 % 
-WSL                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Linux                    43 hrs 59 mins      █████████████████████████   99.90 % 
+WSL                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 47 hrs 9 mins (96.65%)
+⏱ AI Coding Time: 42 hrs 26 mins (96.39%)
 
-✍️ 59,419 lines written by AI, 1,664 lines written by hand (97.28% AI-written)
+✍️ 56,224 lines written by AI, 1,593 lines written by hand (97.24% AI-written)
 
-🔤 23,036,044 Input Tokens, 5,246,071 Output Tokens
+🔤 20,722,431 Input Tokens, 4,891,807 Output Tokens
 
-💵 $1105.77 Estimated AI Cost This Week
+💵 $1035.71 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 70 AI Prompts
+🧠 13 AI Sessions, 65 AI Prompts
 
-Sonnet                   36,751 lines        ███████████████░░░░░░░░░░   59.80 % 
-Opus                     24,710 lines        ██████████░░░░░░░░░░░░░░░   40.20 % 
+Sonnet                   31,927 lines        ██████████████░░░░░░░░░░░   56.37 % 
+Opus                     24,710 lines        ███████████░░░░░░░░░░░░░░   43.63 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.28% of written lines came from AI
-📚 Verbose Prompter — average 10,940 characters per prompt
+🤖 AI-Driven — 97.24% of written lines came from AI
+📚 Verbose Prompter — average 8,580 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 8.83% of changed lines were hand-edited
+🚀 High AI Trust — 7.21% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -158,7 +158,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Th3Mayar/Th3Mayar/main/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2026 21:30:57 UTC
+ Last Updated on 27/09/2026 21:40:07 UTC
 <!--END_SECTION:waka-->
 
 ### 📊 My stats:
