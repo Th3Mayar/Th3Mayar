@@ -63,7 +63,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,322 Contributions in the Year 2026
+> 🏆 1,323 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -74,7 +74,7 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2924 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+🌞 Morning                2925 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
 🌆 Daytime                10817 commits       █████████████░░░░░░░░░░░░   53.97 % 
 🌃 Evening                5081 commits        ██████░░░░░░░░░░░░░░░░░░░   25.35 % 
 🌙 Night                  1221 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
@@ -82,7 +82,7 @@
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   3650 commits        █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+Monday                   3651 commits        █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
 Tuesday                  4914 commits        ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
 Wednesday                2890 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
 Thursday                 3680 commits        █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
@@ -98,47 +98,47 @@ Sunday                   1431 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Santo_Domingo
 
 💬 Programming Languages: 
-TypeScript               15 hrs 39 mins      █████████░░░░░░░░░░░░░░░░   35.55 % 
-Vue                      10 hrs 28 mins      ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
-Markdown                 6 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-SQL                      4 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-JavaScript               3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+TypeScript               11 hrs 27 mins      █████████░░░░░░░░░░░░░░░░   35.61 % 
+Vue                      6 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+Markdown                 5 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+SQL                      2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+JavaScript               2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
 
 🔥 Editors: 
-Claude Code              40 hrs 15 mins      ███████████████████████░░   91.42 % 
-VS Code                  3 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+Claude Code              29 hrs 51 mins      ███████████████████████░░   92.74 % 
+VS Code                  2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
 
 🐱‍💻 Projects: 
-arcadia-foundation       32 hrs 30 mins      ██████████████████░░░░░░░   73.84 % 
-elite-rifas              11 hrs 28 mins      ███████░░░░░░░░░░░░░░░░░░   26.06 % 
-hah-rum-us-glue-alerts   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+arcadia-foundation       20 hrs 40 mins      ████████████████░░░░░░░░░   64.22 % 
+elite-rifas              11 hrs 28 mins      █████████░░░░░░░░░░░░░░░░   35.64 % 
+hah-rum-us-glue-alerts   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 💻 Operating System: 
-Linux                    43 hrs 59 mins      █████████████████████████   99.90 % 
-WSL                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Linux                    32 hrs 8 mins       █████████████████████████   99.86 % 
+WSL                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 42 hrs 26 mins (96.39%)
+⏱ AI Coding Time: 31 hrs 25 mins (97.62%)
 
-✍️ 56,224 lines written by AI, 1,593 lines written by hand (97.24% AI-written)
+✍️ 47,991 lines written by AI, 1,182 lines written by hand (97.6% AI-written)
 
-🔤 20,722,431 Input Tokens, 4,891,807 Output Tokens
+🔤 16,878,758 Input Tokens, 3,905,369 Output Tokens
 
-💵 $1035.71 Estimated AI Cost This Week
+💵 $817.34 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 65 AI Prompts
+🧠 10 AI Sessions, 58 AI Prompts
 
-Sonnet                   31,927 lines        ██████████████░░░░░░░░░░░   56.37 % 
-Opus                     24,710 lines        ███████████░░░░░░░░░░░░░░   43.63 % 
+Opus                     24,710 lines        █████████████░░░░░░░░░░░░   51.18 % 
+Sonnet                   23,567 lines        ████████████░░░░░░░░░░░░░   48.82 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.24% of written lines came from AI
-📚 Verbose Prompter — average 8,580 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 7.21% of changed lines were hand-edited
+🤖 AI-Driven — 97.6% of written lines came from AI
+📚 Verbose Prompter — average 6,144 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 7.28% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -158,7 +158,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Th3Mayar/Th3Mayar/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2026 21:40:07 UTC
+ Last Updated on 28/09/2026 23:34:01 UTC
 <!--END_SECTION:waka-->
 
 ### 📊 My stats:
