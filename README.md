@@ -55,7 +55,7 @@
 ### 📊 Wakatime stats:
 [![committers.top badge](https://user-badge.committers.top/dominican_republic/Th3Mayar.svg)](https://user-badge.committers.top/dominican_republic/Th3Mayar)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C997%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C997%20hrs%207%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-343%20hrs%2010%20mins-blue?style=flat)
 
@@ -98,49 +98,49 @@ Sunday                   1449 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Santo_Domingo
 
 💬 Programming Languages: 
-Vue                      2 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   27.39 % 
-TypeScript               1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
-Other                    1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
-Markdown                 1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-JavaScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+Vue                      1 hr 59 mins        ███████░░░░░░░░░░░░░░░░░░   29.57 % 
+Other                    1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
+TypeScript               1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
+Markdown                 41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+JavaScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 50 mins       █████████████████████░░░░   82.85 % 
-VS Code                  1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+Claude Code              5 hrs 14 mins       ███████████████████░░░░░░   77.86 % 
+VS Code                  1 hr 29 mins        ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
 
 🐱‍💻 Projects: 
-arcadia-foundation       4 hrs 51 mins       ███████████████░░░░░░░░░░   58.83 % 
-landing-codepointrd      1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-portfolio-th3mayar       49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-video                    37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
-elite-rifas              23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+arcadia-foundation       3 hrs 15 mins       ████████████░░░░░░░░░░░░░   48.31 % 
+landing-codepointrd      1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+portfolio-th3mayar       49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+video                    37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+elite-rifas              23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
 
 💻 Operating System: 
-Linux                    8 hrs 3 mins        ████████████████████████░   97.53 % 
-WSL                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Linux                    6 hrs 31 mins       ████████████████████████░   96.97 % 
+WSL                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 14 mins (87.73%)
+⏱ AI Coding Time: 5 hrs 38 mins (83.64%)
 
-✍️ 15,491 lines written by AI, 1,189 lines written by hand (92.87% AI-written)
+✍️ 13,287 lines written by AI, 1,189 lines written by hand (91.79% AI-written)
 
-🔤 6,273,882 Input Tokens, 1,333,815 Output Tokens
+🔤 4,179,210 Input Tokens, 1,056,901 Output Tokens
 
-💵 $123.03 Estimated AI Cost This Week
+💵 $52.58 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 16 AI Prompts
+🧠 10 AI Sessions, 14 AI Prompts
 
-Opus                     14,311 lines        █████████████████████████   98.76 % 
-Claude-Code              179 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Opus                     10,203 lines        █████████████████████████   98.28 % 
+Claude-Code              179 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.87% of written lines came from AI
-📚 Verbose Prompter — average 1,924 characters per prompt
+🤖 AI-Driven — 91.79% of written lines came from AI
+📄 Detailed Prompter — average 815 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 13.51% of changed lines were hand-edited
+🚀 High AI Trust — 15.34% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -160,7 +160,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Th3Mayar/Th3Mayar/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2026 00:22:46 UTC
+ Last Updated on 06/10/2026 22:54:31 UTC
 <!--END_SECTION:waka-->
 
 ### 📊 My stats:
