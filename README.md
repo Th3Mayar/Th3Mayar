@@ -98,49 +98,48 @@ Sunday                   1449 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Santo_Domingo
 
 💬 Programming Languages: 
-Vue                      1 hr 59 mins        ███████░░░░░░░░░░░░░░░░░░   29.57 % 
-Other                    1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
-TypeScript               1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-Markdown                 41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-JavaScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+Vue                      1 hr 36 mins        ████████████░░░░░░░░░░░░░   46.99 % 
+JavaScript               22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+TypeScript               22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Text                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+Astro                    16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 14 mins       ███████████████████░░░░░░   77.86 % 
-VS Code                  1 hr 29 mins        ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
+Claude Code              2 hrs 54 mins       █████████████████████░░░░   85.28 % 
+VS Code                  30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
 
 🐱‍💻 Projects: 
-arcadia-foundation       3 hrs 15 mins       ████████████░░░░░░░░░░░░░   48.31 % 
-landing-codepointrd      1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
-portfolio-th3mayar       49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-video                    37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
-elite-rifas              23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+arcadia-foundation       1 hr 14 mins        █████████░░░░░░░░░░░░░░░░   36.37 % 
+portfolio-th3mayar       49 mins             ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
+video                    37 mins             █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
+landing-codepointrd      21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+arcadia-foundation-recove11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
 
 💻 Operating System: 
-Linux                    6 hrs 31 mins       ████████████████████████░   96.97 % 
-WSL                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Linux                    3 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 38 mins (83.64%)
+⏱ AI Coding Time: 2 hrs 58 mins (87.34%)
 
-✍️ 13,287 lines written by AI, 1,189 lines written by hand (91.79% AI-written)
+✍️ 10,568 lines written by AI, 6 lines written by hand (99.94% AI-written)
 
-🔤 4,179,210 Input Tokens, 1,056,901 Output Tokens
+🔤 3,845,724 Input Tokens, 787,302 Output Tokens
 
-💵 $52.58 Estimated AI Cost This Week
+💵 $69.79 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 14 AI Prompts
+🧠 5 AI Sessions, 13 AI Prompts
 
-Opus                     10,203 lines        █████████████████████████   98.28 % 
-Claude-Code              179 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Opus                     10,875 lines        █████████████████████████   98.38 % 
+Claude-Code              179 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.79% of written lines came from AI
-📄 Detailed Prompter — average 815 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 15.34% of changed lines were hand-edited
+🤖 AI-Driven — 99.94% of written lines came from AI
+📝 Concise Prompter — average 202 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.32% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -160,7 +159,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Th3Mayar/Th3Mayar/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2026 22:54:31 UTC
+ Last Updated on 07/10/2026 23:23:52 UTC
 <!--END_SECTION:waka-->
 
 ### 📊 My stats:
