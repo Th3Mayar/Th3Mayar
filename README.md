@@ -98,48 +98,48 @@ Sunday                   1449 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Santo_Domingo
 
 💬 Programming Languages: 
-Vue                      1 hr 36 mins        ████████████░░░░░░░░░░░░░   46.99 % 
-JavaScript               22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-TypeScript               22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-Text                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-Astro                    16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+JavaScript               22 mins             █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+TypeScript               21 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
+Vue                      18 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+Text                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+Astro                    16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 54 mins       █████████████████████░░░░   85.28 % 
-VS Code                  30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Claude Code              1 hr 51 mins        ██████████████████████░░░   87.75 % 
+VS Code                  15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
 
 🐱‍💻 Projects: 
-arcadia-foundation       1 hr 14 mins        █████████░░░░░░░░░░░░░░░░   36.37 % 
-portfolio-th3mayar       49 mins             ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
-video                    37 mins             █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
-landing-codepointrd      21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-arcadia-foundation-recove11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+portfolio-th3mayar       49 mins             ██████████░░░░░░░░░░░░░░░   38.89 % 
+video                    37 mins             ███████░░░░░░░░░░░░░░░░░░   29.35 % 
+arcadia-foundation       22 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+arcadia-foundation-recove11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+components               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 
 💻 Operating System: 
-Linux                    3 hrs 24 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 58 mins (87.34%)
+⏱ AI Coding Time: 1 hr 52 mins (88.54%)
 
-✍️ 10,568 lines written by AI, 6 lines written by hand (99.94% AI-written)
+✍️ 10,266 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,845,724 Input Tokens, 787,302 Output Tokens
+🔤 1,810,414 Input Tokens, 523,174 Output Tokens
 
-💵 $69.79 Estimated AI Cost This Week
+💵 $38.30 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 13 AI Prompts
+🧠 3 AI Sessions, 10 AI Prompts
 
-Opus                     10,875 lines        █████████████████████████   98.38 % 
-Claude-Code              179 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Opus                     10,539 lines        █████████████████████████   98.33 % 
+Claude-Code              179 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.94% of written lines came from AI
-📝 Concise Prompter — average 202 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 209 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.32% of changed lines were hand-edited
+🚀 High AI Trust — 0.22% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -159,7 +159,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Th3Mayar/Th3Mayar/main/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2026 23:23:52 UTC
+ Last Updated on 08/10/2026 23:39:21 UTC
 <!--END_SECTION:waka-->
 
 ### 📊 My stats:
