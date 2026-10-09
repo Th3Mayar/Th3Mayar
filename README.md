@@ -98,48 +98,22 @@ Sunday                   1449 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Santo_Domingo
 
 💬 Programming Languages: 
-JavaScript               22 mins             █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
-TypeScript               21 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-Vue                      18 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-Text                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-Astro                    16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+Markdown                 5 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Claude Code              1 hr 51 mins        ██████████████████████░░░   87.75 % 
-VS Code                  15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+VS Code                  5 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-portfolio-th3mayar       49 mins             ██████████░░░░░░░░░░░░░░░   38.89 % 
-video                    37 mins             ███████░░░░░░░░░░░░░░░░░░   29.35 % 
-arcadia-foundation       22 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
-arcadia-foundation-recove11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-components               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+arcadia-foundation-recove5 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 6 mins        █████████████████████████   100.00 % 
+Linux                    5 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 52 mins (88.54%)
-
-✍️ 10,266 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 1,810,414 Input Tokens, 523,174 Output Tokens
-
-💵 $38.30 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 10 AI Prompts
-
-Opus                     10,539 lines        █████████████████████████   98.33 % 
-Claude-Code              179 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 209 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.22% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -159,7 +133,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Th3Mayar/Th3Mayar/main/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2026 23:39:21 UTC
+ Last Updated on 09/10/2026 22:59:04 UTC
 <!--END_SECTION:waka-->
 
 ### 📊 My stats:
