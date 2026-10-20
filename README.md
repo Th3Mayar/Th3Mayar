@@ -55,7 +55,7 @@
 ### 📊 Wakatime stats:
 [![committers.top badge](https://user-badge.committers.top/dominican_republic/Th3Mayar.svg)](https://user-badge.committers.top/dominican_republic/Th3Mayar)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C998%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C998%20hrs%2028%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-343%20hrs%2010%20mins-blue?style=flat)
 
@@ -98,16 +98,20 @@ Sunday                   1455 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Santo_Domingo
 
 💬 Programming Languages: 
-Markdown                 54 mins             █████████████████████████   100.00 % 
+Markdown                 54 mins             █████████████████░░░░░░░░   66.94 % 
+TypeScript               19 mins             ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
+Bash                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-VS Code                  54 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 21 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-hah                      54 mins             █████████████████████████   100.00 % 
+hah                      54 mins             █████████████████░░░░░░░░   66.94 % 
+pw-results-db            26 mins             ████████░░░░░░░░░░░░░░░░░   33.06 % 
 
 💻 Operating System: 
-WSL                      54 mins             █████████████████████████   100.00 % 
+WSL                      1 hr 21 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -133,7 +137,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Th3Mayar/Th3Mayar/main/assets/bar_graph.png)
 
 
- Last Updated on 19/10/2026 22:42:02 UTC
+ Last Updated on 20/10/2026 21:58:05 UTC
 <!--END_SECTION:waka-->
 
 ### 📊 My stats:
