@@ -55,7 +55,7 @@
 ### 📊 Wakatime stats:
 [![committers.top badge](https://user-badge.committers.top/dominican_republic/Th3Mayar.svg)](https://user-badge.committers.top/dominican_republic/Th3Mayar)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C998%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C998%20hrs%2056%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-343%20hrs%2012%20mins-blue?style=flat)
 
@@ -98,29 +98,29 @@ Sunday                   1455 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Santo_Domingo
 
 💬 Programming Languages: 
-Markdown                 1 hr 3 mins         ███████████████░░░░░░░░░░   58.83 % 
-TypeScript               36 mins             ████████░░░░░░░░░░░░░░░░░   33.81 % 
-Bash                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+TypeScript               36 mins             █████████████████░░░░░░░░   67.33 % 
+Markdown                 9 mins              █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
+Bash                     7 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-VS Code                  1 hr 45 mins        █████████████████████████   98.37 % 
-Copilot CLI              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+VS Code                  52 mins             ████████████████████████░   96.75 % 
+Copilot CLI              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 
 🐱‍💻 Projects: 
-hah                      54 mins             █████████████░░░░░░░░░░░░   50.72 % 
-pw-results-db            53 mins             ████████████░░░░░░░░░░░░░   49.28 % 
+pw-results-db            53 mins             █████████████████████████   98.13 % 
+hah                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 
 💻 Operating System: 
-WSL                      1 hr 47 mins        █████████████████████████   100.00 % 
+WSL                      54 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 min (1.63%)
+⏱ AI Coding Time: 1 min (3.25%)
 
-✍️ 4 lines written by AI, 959 lines written by hand (0.42% AI-written)
+✍️ 4 lines written by AI, 716 lines written by hand (0.56% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -131,10 +131,10 @@ WSL                      1 hr 47 mins        ███████████�
 GPT                      4 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.42% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 0.56% of written lines came from AI
 📄 Detailed Prompter — average 1,212 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 99.76% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 99.72% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -154,7 +154,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Th3Mayar/Th3Mayar/main/assets/bar_graph.png)
 
 
- Last Updated on 22/10/2026 21:58:46 UTC
+ Last Updated on 23/10/2026 21:45:13 UTC
 <!--END_SECTION:waka-->
 
 ### 📊 My stats:
