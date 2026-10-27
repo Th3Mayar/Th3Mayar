@@ -98,29 +98,27 @@ Sunday                   1455 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Santo_Domingo
 
 💬 Programming Languages: 
-TypeScript               36 mins             █████████████████░░░░░░░░   67.33 % 
-Markdown                 9 mins              █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
-Bash                     7 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+TypeScript               17 mins             ████████████████░░░░░░░░░   64.04 % 
+Markdown                 9 mins              █████████░░░░░░░░░░░░░░░░   35.96 % 
 
 🔥 Editors: 
-VS Code                  52 mins             ████████████████████████░   96.75 % 
-Copilot CLI              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+VS Code                  25 mins             ███████████████████████░░   93.52 % 
+Copilot CLI              1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
 
 🐱‍💻 Projects: 
-pw-results-db            53 mins             █████████████████████████   98.13 % 
-hah                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+pw-results-db            26 mins             ████████████████████████░   96.26 % 
+hah                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
 
 💻 Operating System: 
-WSL                      54 mins             █████████████████████████   100.00 % 
+WSL                      27 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 min (3.25%)
+⏱ AI Coding Time: 1 min (6.48%)
 
-✍️ 4 lines written by AI, 716 lines written by hand (0.56% AI-written)
+✍️ 4 lines written by AI, 37 lines written by hand (9.76% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -131,10 +129,10 @@ WSL                      54 mins             ███████████�
 GPT                      4 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.56% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 9.76% of written lines came from AI
 📄 Detailed Prompter — average 1,212 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 99.72% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 99.46% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -154,7 +152,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Th3Mayar/Th3Mayar/main/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2026 23:00:42 UTC
+ Last Updated on 27/10/2026 22:40:23 UTC
 <!--END_SECTION:waka-->
 
 ### 📊 My stats:
