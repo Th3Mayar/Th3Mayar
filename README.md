@@ -98,41 +98,22 @@ Sunday                   1455 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Santo_Domingo
 
 💬 Programming Languages: 
-TypeScript               17 mins             ████████████████░░░░░░░░░   64.04 % 
-Markdown                 9 mins              █████████░░░░░░░░░░░░░░░░   35.96 % 
+Markdown                 1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  25 mins             ███████████████████████░░   93.52 % 
-Copilot CLI              1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+VS Code                  1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pw-results-db            26 mins             ████████████████████████░   96.26 % 
-hah                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+hah                      1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      27 mins             █████████████████████████   100.00 % 
+WSL                      1 min               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 min (6.48%)
-
-✍️ 4 lines written by AI, 37 lines written by hand (9.76% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-GPT                      4 lines             █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 9.76% of written lines came from AI
-📄 Detailed Prompter — average 1,212 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 99.46% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -152,7 +133,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Th3Mayar/Th3Mayar/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2026 22:40:23 UTC
+ Last Updated on 28/10/2026 22:55:34 UTC
 <!--END_SECTION:waka-->
 
 ### 📊 My stats:
